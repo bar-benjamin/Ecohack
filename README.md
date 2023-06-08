@@ -3,7 +3,7 @@
 Developed mobile application under 24 hours designed to empower users in making environmentally conscious food choices which utilizes barcode scanning and product details data analysis to provide instant feedback on a food product's environmental impact.
 
 ### Preview
-![preview](preview.gif)
+![app_preview](app_preview.gif)
 
 ### Architecture
 ![architecture](architecture.png)
